@@ -9,7 +9,7 @@
 - :wrench: Skills :
   - :desktop_computer: Web Development : `HTML`, `CSS` (with `SASS` preprocessors) and `JS` (or rather `TypeScript`). Love to build `React` and `React.Native` applications
   - :gear: Server Side : PHP or C# (ASP.NET Core)
-- <img src="https://cdn4.iconfinder.com/data/icons/proglyphs-free/512/Linux_-_Tux-512.png" width="24px" /> Linux enthousiast
+- <div style="display: flex; align-items: center; flex-direction: row; justify-contents: center;"> <img src="https://cdn4.iconfinder.com/data/icons/proglyphs-free/512/Linux_-_Tux-512.png" width="24px" />Linux enthusiast</div>
 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
