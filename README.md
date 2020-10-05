@@ -6,6 +6,9 @@
 
 - :briefcase: Working at [Artionet Web Agency](https://artionet.com), a company developping eGovernment solutions
 - 📚 Studying at the [@HE-Arc](https://github.com/HE-Arc), a University of Applied Sciences
+- :wrench: Skills :
+  - Web Development :desktop_computer: : HTML, CSS (with preprocessors) and JS (or rather TypeScript). Love to build React and React.Native applications
+  - Server Side :gear: : PHP or C#
 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
