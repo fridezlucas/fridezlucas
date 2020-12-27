@@ -11,12 +11,12 @@
   - :gear: Server Side : `C#` (`ASP.NET Core`) or `PHP`
 
 #### Statistics
-
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: nowrap;">
+<div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fridezlucas&layout=compact&hide=html" alt="Fridez Lucas languages" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=fridezlucas&show_icons=true" alt="Fridez Lucas Stats" />
 </div>
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=fridezlucas&show_icons=true" alt="Fridez Lucas Stats" />
+</div>
 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
