@@ -10,6 +10,14 @@
   - :desktop_computer: Web Development : `HTML`, `CSS` (with `SCSS` preprocessors) and `JS` (or rather `TypeScript`). Love to build `React` and `React.Native` applications
   - :gear: Server Side : `C#` (`ASP.NET Core`) or `PHP`
 
+#### Statistics
+
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: nowrap;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fridezlucas&layout=compact&hide=html" alt="Fridez Lucas languages" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=fridezlucas&show_icons=true" alt="Fridez Lucas Stats" />
+</div>
+
+
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
